@@ -18,8 +18,8 @@ module.exports = {
 				link: '/',
 			},
 			{
-				text: 'Main Guide',
-				link: '/more-text',
+				text: 'Guide',
+				link: '/guides/more-text',
 			},
 			{
 				text: 'Commando',
@@ -45,6 +45,11 @@ module.exports = {
 				'more-content',
 				'final-content',
 			],
+			'/telegram/': [
+				'',
+				'links',
+				'rules',
+			],
 			'/': [
 				{
 					title: 'Home',
@@ -52,30 +57,20 @@ module.exports = {
 					children: ['/', 'custom/'],
 				},
 				{
-					title: 'Markdown stuff',
+					title: 'Intel installation',
 					collapsable: false,
 					children: [
-						'more-text',
-						'markdown',
-						'markdown-vuepress',
-						'markdown-it',
+						'/guides/more-text',
+						'/guides/markdown',
+						'/guides/markdown-vuepress',
+						'/guides/markdown-it',
 					],
 				},
 				{
 					title: 'Misc pages',
 					children: [
-						'custom-themes',
-						'default-theme-config',
-					],
-				},
-			],
-			'/telegram/': [
-				{
-					title: 'Links',
-					collapsable: true,
-					children: [
-						'group',
-						'channel'
+						'/guides/custom-themes',
+						'/guides/default-theme-config',
 					],
 				},
 			],

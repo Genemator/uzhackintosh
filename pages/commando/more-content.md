@@ -1,5 +1,5 @@
 ---
-forceTheme: blue
+forceTheme: red
 ---
 
 # More content
