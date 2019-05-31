@@ -1,13 +1,13 @@
 {
-  "name": "vuepress",
-  "version": "1.0.0",
+  "name": "UzHackintosh",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "now-dev": "vuepress dev docs --port=$PORT",
-    "now-build": "npm run build && mv docs/.vuepress/dist dist"
+    "dev": "vuepress dev pages",
+    "build": "vuepress build pages",
+    "now-dev": "vuepress dev pages --port=$PORT",
+    "now-build": "npm run build && mv pages/.vuepress/dist dist"
   },
   "devDependencies": {
     "vuepress": "^0.14.4"
