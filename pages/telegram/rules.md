@@ -10,7 +10,7 @@ For spam you will be banned. We recommend you to describe your hardware before y
 [Tutorial](https://github.com/avr6ude/OSX86/blob/master/README.md)
 
 ### Exaple Hardware Report
-```$xslt
+```
 Desktop/Laptop
 Motherboard (GA-z170-dc3) / Manufacturer (Asus, Lenovo, etc)
 Processor (i7 6700)
