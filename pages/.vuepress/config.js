@@ -1,8 +1,9 @@
 module.exports = {
 	title: 'UzHackintosh',
-	description: 'UzHackintosh - [macOS, iOS] Development Portal for UZ developers',
+	description: 'UzHackintosh - [macOS, iOS] Development Portal for UZB developers',
 	theme: 'yuu',
 	themeConfig: {
+		logo: 'https://i.imgur.com/x61tQnz.png',
 		yuu: {
 			colorThemes: ['red', 'blue'],
 		},
@@ -65,6 +66,16 @@ module.exports = {
 					children: [
 						'custom-themes',
 						'default-theme-config',
+					],
+				},
+			],
+			'/telegram/': [
+				{
+					title: 'Links',
+					collapsable: true,
+					children: [
+						'group',
+						'channel'
 					],
 				},
 			],
