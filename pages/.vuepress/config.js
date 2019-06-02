@@ -71,7 +71,7 @@ module.exports = {
 			'/': [
 				{
 					title: 'Home',
-					collapsable: true,
+					collapsable: false,
 					children: ['/', 'credits/'],
 				},
 				{
