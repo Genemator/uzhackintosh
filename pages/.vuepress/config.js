@@ -165,8 +165,8 @@ module.exports = {
 						{
 							title: 'Другие',
 							children: [
-								'/ru/guides/custom-themes',
-								'/ru/guides/default-theme-config',
+								'/ru/guides/files',
+								'/ru/guides/anotherfile',
 							],
 						},
 					],

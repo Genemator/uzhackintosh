@@ -8,7 +8,7 @@ forceTheme: red
 * **Материнская плата**: частично бывают проблемными материнские платы на X\*-чипсетах.
 * **Аудио**: работает практически всё, но бывают исключения.
 * **Сеть**: заводимо всё, кроме китайских ноунейм LAN-карт.
-* **Bluetooth и Wi-Fi**: смотреть [таблицу](https://docs.google.com/spreadsheets/d/1Yxlvo-vK_zupMiR1Ua_NZ1X0j6BSXoICCEgB7wvAQsM/edit#gid=0).
+* **Bluetooth и Wi-Fi**: смотреть [таблицу](/ru/guides/bw.md).
 ## Настройка BIOS Legacy и BIOS UEFI
 * **CSM**: На современных платах и видеокартах при использовании исключительно UEFI-загрузки рекомедуется его выключать.
 * **Secure Boot**: Other OS (UEFI).

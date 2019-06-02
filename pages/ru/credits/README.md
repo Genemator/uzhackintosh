@@ -1,9 +1,9 @@
 # Полезные ссылки 
 ## Главное 
-* Дистрибутивы — http://osxpc.ru/category/downloads/osx/
-* Кексты 1 – https://www.applelife.ru/threads/2942933
-* Кексты 2 — http://osxpc.ru/downloads/k/kexts/
-* Запаска /S/L/E — http://osxpc.ru/zapaska/
+* Дистрибутивы — [osxpc](http://osxpc.ru/category/downloads/osx/)
+* Кексты 1 – [applelife](https://www.applelife.ru/threads/2942933)
+* Кексты 2 — [osxpc](http://osxpc.ru/downloads/k/kexts/)
+* Запаска /S/L/E — [osxpc](http://osxpc.ru/zapaska/)
 * Clover — https://sourceforge.net/projects/cloverefiboot/files/latest/download
 * Клевер цвета хаки 4542 — https://i.applelife.ru/2018/06/431578_Klever_cveta_xaki_4542.pdf
 * "Чистый" config.plist для редактирования под себя – https://sourceforge.net/p/cloverefiboot/code/HEAD/tree/CloverPackage/CloverV2/EFI/CLOVER/config-sample.plist 
