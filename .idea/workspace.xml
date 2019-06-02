@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6da0581-81cb-40ec-bb38-c385cf1c4572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
               <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="120">
+                <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -54,12 +64,12 @@
         <option value="$PROJECT_DIR$/pages/commando/final-content.md" />
         <option value="$PROJECT_DIR$/pages/telegram/rules.md" />
         <option value="$PROJECT_DIR$/pages/custom/README.md" />
-        <option value="$PROJECT_DIR$/pages/README.md" />
         <option value="$PROJECT_DIR$/pages/guides/bw.md" />
         <option value="$PROJECT_DIR$/pages/guides/README.md" />
         <option value="$PROJECT_DIR$/pages/credits/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pages/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/pages/README.md" />
       </list>
     </option>
   </component>
@@ -160,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559316273455</updated>
       <workItem from="1559316280149" duration="10081000" />
-      <workItem from="1559368646920" duration="11371000" />
+      <workItem from="1559368646920" duration="11447000" />
     </task>
     <task id="LOCAL-00001" summary="Changed everything">
       <created>1559319211745</created>
@@ -173,19 +183,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21452000" />
+    <option name="totallyTimeSpent" value="21528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49725777" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497543" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.50274223" side_tool="true" visible="true" weight="0.24242425" />
+      <window_info id="npm" order="2" sideWeight="0.502457" side_tool="true" visible="true" weight="0.24242425" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280098" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,16 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="165">
-            <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/.vuepress/dist/assets/img/search.683d46b0.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -423,6 +422,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="120">
+            <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

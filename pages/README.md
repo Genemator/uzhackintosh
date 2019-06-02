@@ -1,7 +1,7 @@
 ---
 forceTheme: red
 home: true
-heroImage: https://i.imgur.com/x61tQnz.png
+heroImage: /images/logo.png
 actionText: Get Started →
 actionLink: /guides/
 features:
