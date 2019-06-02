@@ -27,7 +27,6 @@ module.exports = {
 			colorThemes: ['red', 'blue'],
 		},
 		repo: 'genemator/uzhackintosh',
-		editLinks: true,
 		docsBranch: 'master',
 		repoLabel: 'GitHub',
 		sidebarDepth: 10,
@@ -36,8 +35,6 @@ module.exports = {
 		locales: {
 			'/': {
 				selectText: 'Languages',
-				editLinkText: 'Edit it, Hack it!',
-				lastUpdated: 'Last Updated',
 				serviceWorker: {
 					updatePopup: {
 						message: "New content is available.",
@@ -109,7 +106,6 @@ module.exports = {
 			'/ru/': {
 				selectText: 'Языки',
 				editLinkText: 'Отредактируйте это вместе!',
-				lastUpdated: 'Последнее обновление',
 				serviceWorker: {
 					updatePopup: {
 						message: "Новый контент доступен.",
@@ -181,7 +177,6 @@ module.exports = {
 			'/uz/': {
 				selectText: 'Tillar',
 				editLinkText: "O'zgartirish kiriting",
-				lastUpdated: 'Oxirgi yangilangan',
 				serviceWorker: {
 					updatePopup: {
 						message: "Yangi kontent bor.",
