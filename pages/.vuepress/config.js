@@ -14,7 +14,7 @@ module.exports = {
 		editLinks: true,
 		editLinkText: 'Edit it, Hack it!',
 		sidebarDepth: 10,
-		lastUpdated: 'Updated',
+		lastUpdated: true,
 		searchMaxSuggestions: 10,
 		serviceWorker: {
 			 updatePopup: {
@@ -47,8 +47,8 @@ module.exports = {
 				text: 'Languages',
 				items: [
 					{ text: 'English', link: '/' },
-					{ text: 'Русский (Under Development)', link: '404' },
-					{ text: "O'zbek (Under Development)", link: '404' }
+					{ text: 'Русский (Under Development)', link: '/' },
+					{ text: "O'zbek (Under Development)", link: '/' }
 				]
 			},
 		],
