@@ -10,6 +10,7 @@
     "now-build": "npm run build && mv pages/.vuepress/dist dist"
   },
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.48",
     "vuepress": "^0.14.4"
   },
   "dependencies": {

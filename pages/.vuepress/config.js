@@ -1,9 +1,12 @@
 module.exports = {
+	head: [
+		['link', { rel: 'icon', href: '/favicon/favicon.ico' }]
+	],
 	title: 'UzHackintosh',
 	description: 'UzHackintosh - [macOS, iOS] Development Portal for UZB developers',
 	theme: 'yuu',
-	themeConfig: {
-		logo: 'https://i.imgur.com/x61tQnz.png',
+	"themeConfig": {
+		logo: '/images/logo.png',
 		yuu: {
 			colorThemes: ['red', 'blue'],
 		},
@@ -22,7 +25,7 @@ module.exports = {
 			    buttonText: "Refreshissimo"
 			}
 		},
-		nav: [
+		"nav": [
 			{
 				text: 'Home',
 				link: '/',
@@ -32,7 +35,7 @@ module.exports = {
 				link: '/guides/',
 			},
 			{
-				text: 'MacOS',
+				"text": 'MacOS',
 				link: '/macos/',
 			},
 			{
@@ -83,7 +86,7 @@ module.exports = {
 					],
 				},
 				{
-					title: 'Misc pages',
+					title: 'Others',
 					children: [
 						'/guides/custom-themes',
 						'/guides/default-theme-config',
@@ -92,4 +95,9 @@ module.exports = {
 			],
 		},
 	},
+	plugins: [
+		     ['@vuepress/google-analytics', {
+		       ga: 'UA-12345678-9'
+     }]
+  ]
 };
