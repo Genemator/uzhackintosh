@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="168" column="44" selection-start-line="168" selection-start-column="44" selection-end-line="168" selection-end-column="44" />
+            <state relative-caret-position="445">
+              <caret line="168" column="48" selection-start-line="168" selection-start-column="48" selection-end-line="168" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -202,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559316273455</updated>
       <workItem from="1559316280149" duration="10081000" />
-      <workItem from="1559368646920" duration="19647000" />
+      <workItem from="1559368646920" duration="19713000" />
     </task>
     <task id="LOCAL-00001" summary="Changed everything">
       <created>1559319211745</created>
@@ -215,7 +215,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29728000" />
+    <option name="totallyTimeSpent" value="29794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -597,8 +597,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="168" column="44" selection-start-line="168" selection-start-column="44" selection-end-line="168" selection-end-column="44" />
+        <state relative-caret-position="445">
+          <caret line="168" column="48" selection-start-line="168" selection-start-column="48" selection-end-line="168" selection-end-column="48" />
         </state>
       </provider>
     </entry>
