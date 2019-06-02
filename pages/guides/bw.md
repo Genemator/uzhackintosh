@@ -1,3 +1,7 @@
+---
+forceTheme: red
+---
+
 # Compatibility Table for Pci-Express, Mini Pci-Express and M.2 Wi-Fi Modules (NGFF) Mac-OS-X-Hackintosh
 ### Original Broadcom apple modules (full-size, full-size): installed via the PCIE-X1 or mPCIE and (NGFF, M.2) adapter
 

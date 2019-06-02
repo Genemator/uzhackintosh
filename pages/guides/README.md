@@ -1,3 +1,6 @@
+---
+forceTheme: red
+---
 # Installation on Intel-PC
 ## Selection and verification of the compatibility of hardware
 * **Processor**: must be Intel (there are lots of options like AMD, but trust me it doesn't worth it)
