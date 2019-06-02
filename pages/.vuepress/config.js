@@ -137,13 +137,11 @@ module.exports = {
 				sidebar: {
 					'/ru/macos/': [
 						'',
-						'more-content',
-						'final-content',
+						'fix-error-app-message',
 					],
 					'/ru/ios/': [
 						'',
-						'more-content',
-						'final-content',
+						'ios13',
 					],
 					'/ru/telegram/': [
 						'',
