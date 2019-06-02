@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6da0581-81cb-40ec-bb38-c385cf1c4572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-120-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-152-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-180-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/favicon/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/public/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ru/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ru/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/uz/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/credits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/credits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ru/credits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ru/credits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ru/guides/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ru/guides/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ru/guides/bw.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ru/guides/bw.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,26 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/uz/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
-                <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/ru/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="84">
-                <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="227" column="40" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -88,14 +56,17 @@
         <option value="$PROJECT_DIR$/pages/commando/final-content.md" />
         <option value="$PROJECT_DIR$/pages/telegram/rules.md" />
         <option value="$PROJECT_DIR$/pages/custom/README.md" />
-        <option value="$PROJECT_DIR$/pages/credits/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pages/README.md" />
         <option value="$PROJECT_DIR$/pages/guides/bw.md" />
         <option value="$PROJECT_DIR$/pages/guides/README.md" />
-        <option value="$PROJECT_DIR$/pages/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/pages/uz/README.md" />
+        <option value="$PROJECT_DIR$/pages/ru/guides/bw.md" />
+        <option value="$PROJECT_DIR$/pages/ru/guides/README.md" />
+        <option value="$PROJECT_DIR$/pages/credits/README.md" />
+        <option value="$PROJECT_DIR$/pages/ru/credits/README.md" />
         <option value="$PROJECT_DIR$/pages/ru/README.md" />
+        <option value="$PROJECT_DIR$/pages/.vuepress/config.js" />
       </list>
     </option>
   </component>
@@ -129,13 +100,13 @@
               <item name="UzHackintosh" type="b2602c69:ProjectViewProjectNode" />
               <item name="UzHackintosh" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UzHackintosh" type="b2602c69:ProjectViewProjectNode" />
               <item name="UzHackintosh" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="uz" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1559316273455</updated>
       <workItem from="1559316280149" duration="10081000" />
-      <workItem from="1559368646920" duration="15088000" />
+      <workItem from="1559368646920" duration="16071000" />
     </task>
     <task id="LOCAL-00001" summary="Changed everything">
       <created>1559319211745</created>
@@ -215,19 +186,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25169000" />
+    <option name="totallyTimeSpent" value="26152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49725777" visible="true" weight="0.24242425" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49725777" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.50274223" side_tool="true" weight="0.24242425" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280098" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,9 +221,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changed everything" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.vuepress/theme/DropdownLink.vue" />
-    <entry file="file://$PROJECT_DIR$/.vuepress/theme/Layout.vue" />
-    <entry file="file://$PROJECT_DIR$/.vuepress/theme/Home.vue" />
     <entry file="file://$PROJECT_DIR$/.vuepress/theme/DropdownTransition.vue" />
     <entry file="file://$PROJECT_DIR$/.vuepress/theme/NavLinks.vue" />
     <entry file="file://$PROJECT_DIR$/.vuepress/theme/NavLink.vue" />
@@ -294,13 +262,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/markdown-vuepress.md" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/telegram/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -396,16 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/credits/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="227">
-            <caret line="33" column="96" selection-start-line="33" selection-start-column="96" selection-end-line="33" selection-end-column="96" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/now.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -459,13 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4628">
-          <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/uz/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -476,13 +420,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ru/README.md">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ru/guides/bw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
-            <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <caret line="4" column="135" selection-start-line="4" selection-start-column="135" selection-end-line="4" selection-end-column="135" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ru/guides/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="358">
+            <caret line="143" column="23" selection-start-line="143" selection-start-column="23" selection-end-line="143" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/credits/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ru/credits/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ru/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="227" column="40" selection-start-line="227" selection-start-column="40" selection-end-line="227" selection-end-column="40" />
         </state>
       </provider>
     </entry>

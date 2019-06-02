@@ -81,9 +81,9 @@ module.exports = {
 					],
 					'/': [
 						{
-							title: 'Home',
+							title: 'Useful',
 							collapsable: false,
-							children: ['/', 'credits/'],
+							children: ['credits/'],
 						},
 						{
 							title: 'Hackintosh Installation',
@@ -152,9 +152,9 @@ module.exports = {
 					],
 					'/ru/': [
 						{
-							title: 'Главный',
+							title: 'Полезные',
 							collapsable: false,
-							children: ['/ru/', '/ru/credits/'],
+							children: ['/ru/credits/'],
 						},
 						{
 							title: 'Установка Хакинтоша',
@@ -223,9 +223,9 @@ module.exports = {
 					],
 					'/uz/': [
 						{
-							title: 'Asosiy',
+							title: 'Foydali',
 							collapsable: false,
-							children: ['/uz/', '/uz/credits/'],
+							children: ['/uz/credits/'],
 						},
 						{
 							title: "Hackintosh O'rnatish",

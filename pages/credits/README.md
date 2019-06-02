@@ -1,4 +1,3 @@
-
 # Useful Links
 ## Main 
 * Дистрибутивы — [http://osxpc.ru/category/downloads/osx/](http://osxpc.ru/category/downloads/osx/)
