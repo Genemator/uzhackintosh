@@ -165,8 +165,8 @@ module.exports = {
 						{
 							title: 'Другие',
 							children: [
-								'/ru/guides/files',
-								'/ru/guides/anotherfile',
+								'/ru/guides/more-content',
+								'/ru/guides/final-content',
 							],
 						},
 					],
