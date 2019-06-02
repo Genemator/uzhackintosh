@@ -119,60 +119,60 @@ module.exports = {
 				"nav": [
 					{
 						text: 'Главный',
-						link: '/',
+						link: '/ru/',
 					},
 					{
 						text: 'Руководство',
-						link: '/guides/',
+						link: '/ru/guides/',
 					},
 					{
 						text: 'MacOS',
-						link: '/macos/',
+						link: '/ru/macos/',
 					},
 					{
 						text: 'iOS',
-						link: '/ios/',
+						link: '/ru/ios/',
 					},
 					{
 						text: 'Telegram',
-						link: '/telegram/',
+						link: '/ru/telegram/',
 					},
 				],
 				sidebar: {
-					'/macos/': [
+					'/ru/macos/': [
 						'',
 						'more-content',
 						'final-content',
 					],
-					'/ios/': [
+					'/ru/ios/': [
 						'',
 						'more-content',
 						'final-content',
 					],
-					'/telegram/': [
+					'/ru/telegram/': [
 						'',
 						'links',
 						'rules',
 					],
-					'/': [
+					'/ru/': [
 						{
 							title: 'Главный',
 							collapsable: false,
-							children: ['/', 'credits/'],
+							children: ['/ru/', '/ru/credits/'],
 						},
 						{
 							title: 'Установка Хакинтоша',
 							collapsable: false,
 							children: [
-								'/guides/',
-								'/guides/bw',
+								'/ru/guides/',
+								'/ru/guides/bw',
 							],
 						},
 						{
 							title: 'Другие',
 							children: [
-								'/guides/custom-themes',
-								'/guides/default-theme-config',
+								'/ru/guides/custom-themes',
+								'/ru/guides/default-theme-config',
 							],
 						},
 					],
@@ -191,60 +191,60 @@ module.exports = {
 				"nav": [
 					{
 						text: 'Asosiy',
-						link: '/',
+						link: '/uz/',
 					},
 					{
 						text: "Qo'llanma",
-						link: '/guides/',
+						link: '/uz/guides/',
 					},
 					{
 						text: 'MacOS',
-						link: '/macos/',
+						link: '/uz/macos/',
 					},
 					{
 						text: 'iOS',
-						link: '/ios/',
+						link: '/uz/ios/',
 					},
 					{
 						text: 'Telegram',
-						link: '/telegram/',
+						link: '/uz/telegram/',
 					},
 				],
 				sidebar: {
-					'/macos/': [
+					'/uz/macos/': [
 						'',
 						'more-content',
 						'final-content',
 					],
-					'/ios/': [
+					'/uz/ios/': [
 						'',
 						'more-content',
 						'final-content',
 					],
-					'/telegram/': [
+					'/uz/telegram/': [
 						'',
 						'links',
 						'rules',
 					],
-					'/': [
+					'/uz/': [
 						{
-							title: 'Home',
+							title: 'Asosiy',
 							collapsable: false,
-							children: ['/', 'credits/'],
+							children: ['/uz/', '/uz/credits/'],
 						},
 						{
-							title: 'Hackintosh Installation',
+							title: "Hackintosh O'rnatish",
 							collapsable: false,
 							children: [
-								'/guides/',
-								'/guides/bw',
+								'/uz/guides/',
+								'/uz/guides/bw',
 							],
 						},
 						{
-							title: 'Others',
+							title: 'Boshqalar',
 							children: [
-								'/guides/custom-themes',
-								'/guides/default-theme-config',
+								'/uz/guides/custom-themes',
+								'/uz/guides/default-theme-config',
 							],
 						},
 					],
