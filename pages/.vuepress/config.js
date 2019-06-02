@@ -50,8 +50,8 @@ module.exports = {
 				text: 'Languages',
 				items: [
 					{ text: 'English', link: '/' },
-					{ text: 'Русский (Under Development)', link: '/' },
-					{ text: "O'zbek (Under Development)", link: '/' }
+					{ text: 'Русский X', link: '/' },
+					{ text: "O'zbek X", link: '/' }
 				]
 			},
 		],
@@ -97,7 +97,7 @@ module.exports = {
 	},
 	plugins: [
 		     ['@vuepress/google-analytics', {
-		       ga: 'UA-12345678-9'
+		       ga: '#'
      }]
   ]
 };
