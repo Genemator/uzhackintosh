@@ -5,7 +5,7 @@ module.exports = {
 	title: 'UzHackintosh',
 	description: 'UzHackintosh - [macOS, iOS] Development Portal for UZB developers',
 	theme: 'yuu',
-	"themeConfig": {
+	themeConfig: {
 		logo: '/images/logo.png',
 		yuu: {
 			colorThemes: ['red', 'blue'],
@@ -95,9 +95,5 @@ module.exports = {
 			],
 		},
 	},
-	plugins: [
-		     ['@vuepress/google-analytics', {
-		       ga: '#'
-     }]
   ]
 };
