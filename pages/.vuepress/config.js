@@ -8,10 +8,20 @@ module.exports = {
 			colorThemes: ['red', 'blue'],
 		},
 		repo: 'genemator/uzhackintosh',
+		docsBranch: 'master',
+		repoLabel: 'GitHub',
 		docsDir: 'pages',
 		editLinks: true,
-		sidebarDepth: 3,
-		lastUpdated: true,
+		editLinkText: 'Edit it, Hack it!',
+		sidebarDepth: 10,
+		lastUpdated: 'Updated',
+		searchMaxSuggestions: 10,
+		serviceWorker: {
+			 updatePopup: {
+			    message: "New content is available.",
+			    buttonText: "Refreshissimo"
+			}
+		},
 		nav: [
 			{
 				text: 'Home',
@@ -19,28 +29,36 @@ module.exports = {
 			},
 			{
 				text: 'Guide',
-				link: '/guides/more-text',
+				link: '/guides/',
 			},
 			{
-				text: 'Commando',
-				link: '/commando/',
+				text: 'MacOS',
+				link: '/macos/',
 			},
 			{
-				text: 'Red',
-				link: '/red/',
+				text: 'iOS',
+				link: '/ios/',
 			},
 			{
 				text: 'Telegram',
 				link: '/telegram/',
 			},
+			{
+				text: 'Languages',
+				items: [
+					{ text: 'English', link: '/' },
+					{ text: 'Русский (Under Development)', link: '404' },
+					{ text: "O'zbek (Under Development)", link: '404' }
+				]
+			},
 		],
 		sidebar: {
-			'/commando/': [
+			'/macos/': [
 				'',
 				'more-content',
 				'final-content',
 			],
-			'/red/': [
+			'/ios/': [
 				'',
 				'more-content',
 				'final-content',
@@ -53,17 +71,15 @@ module.exports = {
 			'/': [
 				{
 					title: 'Home',
-					collapsable: false,
-					children: ['/', 'custom/'],
+					collapsable: true,
+					children: ['/', 'credits/'],
 				},
 				{
-					title: 'Intel installation',
+					title: 'Hackintosh Installation',
 					collapsable: false,
 					children: [
-						'/guides/more-text',
-						'/guides/markdown',
-						'/guides/markdown-vuepress',
-						'/guides/markdown-it',
+						'/guides/',
+						'/guides/bw',
 					],
 				},
 				{

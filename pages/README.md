@@ -3,7 +3,7 @@ forceTheme: red
 home: true
 heroImage: https://i.imgur.com/x61tQnz.png
 actionText: Get Started →
-actionLink: /guides/more-text
+actionLink: /guides/
 features:
 - title: Selection and verification of the compatibility of hardware
   details: 
