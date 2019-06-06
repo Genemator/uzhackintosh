@@ -5,11 +5,6 @@ module.exports = {
 	],
 	locales: {
 		'/': {
-			lang: 'English',
-			title: 'UzHackintosh || Development Portal',
-			description: 'UzHackintosh - [macOS, iOS] Development Portal for UZB developers',
-		},
-		'/ru/': {
 			lang: 'Русский',
 			title: 'UzHackintosh || Портал Разработки',
 			description: 'UzHackintosh - [macOS, iOS] Портал разработки для разработчиков УЗБ',
@@ -34,20 +29,21 @@ module.exports = {
 		docsDir: 'pages',
 		locales: {
 			'/': {
-				selectText: 'Languages',
+				selectText: 'Языки',
+				editLinkText: 'Отредактируйте это вместе!',
 				serviceWorker: {
 					updatePopup: {
-						message: "New content is available.",
-						buttonText: "Refreshissimo"
+						message: "Новый контент доступен.",
+						buttonText: "Обновить"
 					}
 				},
 				"nav": [
 					{
-						text: 'Home',
+						text: 'Главный',
 						link: '/',
 					},
 					{
-						text: 'Guide',
+						text: 'Руководство',
 						link: '/guides/',
 					},
 					{
@@ -66,100 +62,27 @@ module.exports = {
 				sidebar: {
 					'/macos/': [
 						'',
-						'more-content',
-						'final-content',
+						'fix-error-app-message',
 					],
 					'/ios/': [
 						'',
-						'more-content',
-						'final-content',
+						'ios13',
 					],
 					'/telegram/': [
 						'',
-						'links',
-						'rules',
 					],
 					'/': [
 						{
-							title: 'Useful',
-							collapsable: false,
-							children: ['credits/'],
-						},
-						{
-							title: 'Hackintosh Installation',
-							collapsable: false,
-							children: [
-								'/guides/',
-								'/guides/bw',
-							],
-						},
-						{
-							title: 'Others',
-							children: [
-								'/guides/custom-themes',
-								'/guides/default-theme-config',
-							],
-						},
-					],
-				},
-			},
-			'/ru/': {
-				selectText: 'Языки',
-				editLinkText: 'Отредактируйте это вместе!',
-				serviceWorker: {
-					updatePopup: {
-						message: "Новый контент доступен.",
-						buttonText: "Обновить"
-					}
-				},
-				"nav": [
-					{
-						text: 'Главный',
-						link: '/ru/',
-					},
-					{
-						text: 'Руководство',
-						link: '/ru/guides/',
-					},
-					{
-						text: 'MacOS',
-						link: '/ru/macos/',
-					},
-					{
-						text: 'iOS',
-						link: '/ru/ios/',
-					},
-					{
-						text: 'Telegram',
-						link: '/ru/telegram/',
-					},
-				],
-				sidebar: {
-					'/ru/macos/': [
-						'',
-						'fix-error-app-message',
-					],
-					'/ru/ios/': [
-						'',
-						'ios13',
-					],
-					'/ru/telegram/': [
-						'',
-						'links',
-						'rules',
-					],
-					'/ru/': [
-						{
 							title: 'Полезные',
 							collapsable: false,
-							children: ['/ru/credits/'],
+							children: ['/credits/'],
 						},
 						{
 							title: 'Установка Хакинтоша',
 							collapsable: false,
 							children: [
-								'/ru/guides/',
-								'/ru/guides/bw',
+								'/guides/',
+								'/guides/bw',
 							],
 						},
 						{

@@ -1,15 +1,15 @@
 ---
 forceTheme: red
 ---
-# Installation on Intel-PC
-## Selection and verification of the compatibility of hardware
-* **Processor**: must be Intel (there are lots of options like AMD, but trust me it doesn't worth it)
-* **Video Card**: at the moment you can "use" any, but remember there are "exceptions"
-* **Motherboard**: partly are problematic motherboard to X\*-chipsets.
-* **Audio**: works almost everything, but there are exceptions.
-* **Network**: all type, except Chinese NONAME Lan-Cards
-* **Bluetooth and Wi-Fi**: look at the [table](/guides/bw.md).
-## Configuring the BIOS Legacy and UEFI BIOS
+# Установка на Intel-PC
+## Подбор и проверка совместимости железа
+* **Процессор**: обязательно Intel (существуют варианты установки на AMD, но это по большей части костыль и того не стоит)
+* **Видеокарта**: на данный момент можно "завести" любую видеокарту (есть исключения¹).
+* **Материнская плата**: частично бывают проблемными материнские платы на X\*-чипсетах.
+* **Аудио**: работает практически всё, но бывают исключения.
+* **Сеть**: заводимо всё, кроме китайских ноунейм LAN-карт.
+* **Bluetooth и Wi-Fi**: смотреть [таблицу](/guides/bw.md).
+## Настройка BIOS Legacy и BIOS UEFI
 * **CSM**: На современных платах и видеокартах при использовании исключительно UEFI-загрузки рекомедуется его выключать.
 * **Secure Boot**: Other OS (UEFI).
 * **SATA**: Обязательно поставить режим AHCI.
@@ -19,7 +19,7 @@ forceTheme: red
 * Отключаем USB 3.0 и 3.1 во избежание проблем во время установки.
 * Отключаем Serial-порты и подобные неиспользуемые интерфейсы.
 * Отключаем Bluetooth.
-### Notes:
+### Примечания:
 * На сборках с двумя CPU требуется поставить двухядерный режим на обоих CPU.
 * Видеокарта должна быть на время установки одна и установлена в первый слот.
 * Отключить все мониторы, кроме основного.
@@ -31,7 +31,7 @@ forceTheme: red
 Этот файл используется для настройки загрузчика **Clover**. Он - основа всего, то, что заставить вашу систему работать правильно.
 **Clover** умеет генерировать файл конфигурации (далее - **конфиг**), основанный на вашем "железе" самостоятельно, но как вы знаете, нет ничего идеального. Поэтому у пользователя есть возможность менять параметры "конфига" напрямую в файле или на ходу в настройках **Clover'a**. Файл написан на языке **XML**, что существенно упрощает работу с ним, так как этот язык является user-friendly. Файл должен находится в **EFI/CLOVER**. Его можно редактировать как с помощью простых редакторов (`Notepad++`, `Sublime Text`, `Atom`, `nano`, `vim`), так и с более специализированными под это дело (**PlistEdit**, встроенный редактор в **Xcode**). Также с недавнего времени появился веб-редактор, заточенный под "конфиг" – [**CloverCloudEditor**](http://cloudclovereditor.altervista.org/cce/index.php).
 
-## Creating a bootable USB flash drive
+## Создание загрузочной USB-флешки
 Самым лучшим и правильным способом по мнению русского хак-коммьюнити является установка чистого образа из App Store. С помощью программы **BootDiskUtility** (в сокращении - BDU) и образа `.hfs` можно получить наиболее чистую систему. 
 Естественно, существует не один способ установки Хакинтоша, но сейчас мы рассмотрим наиболее популярный. 
 1. Скачиваем **BootDiskUtility** [отсюда](http://cvad-mac.narod.ru/index/bootdiskutility_exe/0-5).
@@ -46,7 +46,7 @@ forceTheme: red
 
 Теперь у вас есть готовая USB с образом **macOS**. Вы совершили свой первый шаг к установке Хакинтоша.
 
-## Install image on HDD/SSD
+## Установка образа на HDD/SSD
 1. Для начала рекомендуется внести минимальные правки в config.plist, прописав в `Boot/Arguments` `-v debug=0x100 keepsyms=1`, а если ставите High Sierra, то и добавить [патч на показ паники](https://4pda.ru/forum/index.php?act=findpost&pid=62112835&anchor=Spoil-62112835-1).
 2. Положите kext-ы на сеть, звук и видео. 
 > В случае High Sierra и новее не забудьте скопировать `ApfsDriverLoader-64.efi` из папки drivers-Off в drivers64 или drivers64UEFI в зависимости от типа загрузки.
@@ -68,7 +68,7 @@ forceTheme: red
 10. Как только произойдет загрузка системы, вам предложат настроить основные компоненты.
 После окончания настройки у вас будет чистая система **macOS**, но, к сожалению, загрузка возможно только с USB. Чтобы это исправить нужно установить **Clover** в _EFI_ раздел, процесс установки которого я опишу ниже.
 
-## Installing Clover on an EFI partition
+## Установка Clover на EFI раздел
 * В обоих случаях нужно скачать .pkg-установщик [по ссылке](https://sourceforge.net/projects/cloverefiboot/files/latest/download). Всё это будет делаться из уже запущенной macOS.
 * Выбираете системный диск через кнопку `Изменить размещение установки` и переходите в раздел `Настроить`, где и конфигурируете установку загрузчика.
 * Ставите галочку `Установить Clover на EFI раздел (ESP)`
@@ -84,9 +84,9 @@ forceTheme: red
 
 После установки можно и нужно скопировать `config.plist`, папки `kexts` и `ACPI\patched` (если использовался) с загрузочной флешки в соответствующие места на появившемся разделе EFI системного диска.
 
-## Video
-В данный момент большая часть поддерживаемых системой видеокарт заводятся через плагин [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) к [Lilu.kext](https://github.com/acidanthera/Lilu/releases). Инструкции по его использованию к конкретным видеокартам – ниже по этому тексту. 
-## Volume (Sound)
+## Видео
+В данный момент большая часть поддерживаемых системой видеокарт заводятся через плагин [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) к [Lilu.kext](https://github.com/acidanthera/Lilu/releases). Инструкции по его использованию к конкретным видеокартам – ниже по этому тексту. 
+## Звук
 **На данный момент существует два основных метода "завода" звука: AppleALC и VoodooHDA.**
 ### AppleALC:  
 > Этот метод является динамическим патчингом нативного AppleHDA.
@@ -94,7 +94,7 @@ forceTheme: red
 * Также работает для "завода" звука через HDMI на картах Intel, AMD и NVIDIA.
 * Список поддерживаемых кодеков доступен [здесь](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs).
 
-**Installation:**
+**Установка:**
 * Скачиваем [Lilu](https://github.com/acidanthera/Lilu/releases) и сам [AppleALC](https://github.com/acidanthera/AppleALC/releases);
 * Кладём оба кекста в **CLOVER/EFI/kexts/Other**.
 * Выключаем `FixHDA`, `AddHDMI`, `UseIntelHDMI` в `config.plist`;
