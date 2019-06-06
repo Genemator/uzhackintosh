@@ -88,7 +88,7 @@ module.exports = {
 						{
 							title: 'Другие',
 							children: [
-								'/guides/markdown',
+								'/guides/',
 							],
 						},
 					],
