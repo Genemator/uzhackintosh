@@ -3,9 +3,31 @@
   <component name="ChangeListManager">
     <list default="true" id="c6da0581-81cb-40ec-bb38-c385cf1c4572" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ios/final-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ios/more-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/macos/final-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/macos/more-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/telegram/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/credits/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/credits/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/guides/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/bw.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/guides/bw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/custom-themes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/default-theme-config.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/markdown-it.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/markdown-vuepress.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/guides/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/ios/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/ios/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/ios/final-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/ios/more-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/macos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/macos/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/macos/final-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/macos/more-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/telegram/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/telegram/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/telegram/links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/uz/telegram/rules.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,36 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="90" column="41" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/mixins/themeHandler.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/ThemeOptions.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -74,7 +67,6 @@
         <option value="$PROJECT_DIR$/pages/custom/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/pages/guides/bw.md" />
-        <option value="$PROJECT_DIR$/pages/uz/README.md" />
         <option value="$PROJECT_DIR$/pages/ru/guides/bw.md" />
         <option value="$PROJECT_DIR$/pages/ru/macos/fixerrorappmessage.md" />
         <option value="$PROJECT_DIR$/pages/ru/macos/README.md" />
@@ -88,17 +80,25 @@
         <option value="$PROJECT_DIR$/pages/credits/README.md" />
         <option value="$PROJECT_DIR$/pages/telegram/README.md" />
         <option value="$PROJECT_DIR$/node_modules/vuepress-theme-yuu/package.json" />
-        <option value="$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/ThemeOptions.vue" />
-        <option value="$PROJECT_DIR$/pages/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/ThemeOptions.vue" />
+        <option value="$PROJECT_DIR$/../Web-O-Mator/404.html" />
+        <option value="$PROJECT_DIR$/pages/uz/telegram/README.md" />
+        <option value="$PROJECT_DIR$/pages/uz/macos/fix-error-app-message.md" />
+        <option value="$PROJECT_DIR$/pages/uz/guides/README.md" />
+        <option value="$PROJECT_DIR$/pages/uz/README.md" />
         <option value="$PROJECT_DIR$/pages/README.md" />
+        <option value="$PROJECT_DIR$/pages/uz/macos/README.md" />
+        <option value="$PROJECT_DIR$/pages/uz/credits/README.md" />
+        <option value="$PROJECT_DIR$/pages/uz/guides/bw.md" />
+        <option value="$PROJECT_DIR$/pages/.vuepress/config.js" />
       </list>
     </option>
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -119,6 +119,19 @@
               <item name="UzHackintosh" type="b2602c69:ProjectViewProjectNode" />
               <item name="UzHackintosh" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UzHackintosh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UzHackintosh" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="uz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UzHackintosh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UzHackintosh" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="uz" type="462c0819:PsiDirectoryNode" />
+              <item name="guides" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,6 +182,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="now-build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="now-build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="now-dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -181,6 +204,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.now-build" />
         <item itemvalue="npm.now-dev" />
       </list>
     </recent_temporary>
@@ -204,7 +228,14 @@
       <workItem from="1559796866186" duration="3952000" />
       <workItem from="1559802732068" duration="818000" />
       <workItem from="1559804898868" duration="40000" />
-      <workItem from="1559805118527" duration="1335000" />
+      <workItem from="1559805118527" duration="2316000" />
+      <workItem from="1559819251383" duration="1177000" />
+      <workItem from="1559898767520" duration="3885000" />
+      <workItem from="1559928816999" duration="3163000" />
+      <workItem from="1559935189689" duration="277000" />
+      <workItem from="1560149289577" duration="1502000" />
+      <workItem from="1560156165829" duration="288000" />
+      <workItem from="1560179393112" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="Changed everything">
       <created>1559319211745</created>
@@ -217,14 +248,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38429000" />
+    <option name="totallyTimeSpent" value="49711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4864865" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48175183" visible="true" weight="0.24242425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.5135135" side_tool="true" weight="0.24242425" />
+      <window_info id="npm" order="2" sideWeight="0.5182482" side_tool="true" weight="0.24242425" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -272,50 +303,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changed everything" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/.vuepress/dist/assets/img/search.683d46b0.svg" />
-    <entry file="file://$PROJECT_DIR$/pages/guides/custom-themes.md" />
-    <entry file="file://$PROJECT_DIR$/pages/uz/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/macos/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ru/macos/final-content.md" />
-    <entry file="file://$PROJECT_DIR$/pages/ru/macos/fixerrorappmessage.md" />
-    <entry file="file://$PROJECT_DIR$/pages/macos/more-content.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="2" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ru/macos/more-content.md" />
-    <entry file="file://$PROJECT_DIR$/pages/ru/macos/README.md" />
-    <entry file="file://$PROJECT_DIR$/pages/ru/ios/ios13.md" />
-    <entry file="file://$PROJECT_DIR$/pages/ru/macos/fix-error-app-message.md" />
-    <entry file="file://$PROJECT_DIR$/pages/ru/ios/README.md" />
     <entry file="file://$PROJECT_DIR$/pages/ru/ios/final-content.md" />
     <entry file="file://$PROJECT_DIR$/pages/ru/guides/bw.md" />
     <entry file="file://$PROJECT_DIR$/pages/ru/guides/README.md" />
@@ -333,16 +320,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/telegram/rules.md" />
-    <entry file="file://$PROJECT_DIR$/pages/telegram/links.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/telegram/links.md" />
     <entry file="file://$PROJECT_DIR$/pages/ru/telegram/rules.md" />
     <entry file="file://$PROJECT_DIR$/pages/ru/telegram/README.md" />
     <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/index.js" />
@@ -406,41 +384,141 @@
     <entry file="file://$PROJECT_DIR$/now.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="90" column="41" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/mixins/themeHandler.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/CogIcon.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/UserSettings.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/ThemeOptions.vue">
+    <entry file="file://$PROJECT_DIR$/../Web-O-Mator/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="128" column="38" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/ios/final-content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/ios/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/components/settings/ThemeOptions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vuepress-theme-yuu/mixins/themeHandler.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/credits/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/ios/final-content.md" />
+    <entry file="file://$PROJECT_DIR$/pages/uz/telegram/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="215">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/macos/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="156">
+            <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/macos/fix-error-app-message.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/guides/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/credits/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2736">
+            <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="111" column="16" lean-forward="true" selection-start-line="111" selection-start-column="16" selection-end-line="111" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uz/guides/bw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="84" selection-start-line="3" selection-start-column="84" selection-end-line="3" selection-end-column="84" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

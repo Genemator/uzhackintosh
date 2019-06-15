@@ -96,11 +96,11 @@ module.exports = {
 			},
 			'/uz/': {
 				selectText: 'Tillar',
-				editLinkText: "O'zgartirish kiriting",
+				editLinkText: "Birga o'zgatirish kiriting!",
 				serviceWorker: {
 					updatePopup: {
-						message: "Yangi kontent bor.",
-						buttonText: "Yangilang"
+						message: "Yangi kontent mavjud.",
+						buttonText: "Yangilash"
 					}
 				},
 				"nav": [
@@ -128,20 +128,16 @@ module.exports = {
 				sidebar: {
 					'/uz/macos/': [
 						'',
-						'more-content',
-						'final-content',
+						'fix-error-app-message',
 					],
 					'/uz/ios/': [
 						'',
-						'more-content',
-						'final-content',
+						'ios13',
 					],
 					'/uz/telegram/': [
 						'',
-						'links',
-						'rules',
 					],
-					'/uz/': [
+					'/': [
 						{
 							title: 'Foydali',
 							collapsable: false,
@@ -156,10 +152,9 @@ module.exports = {
 							],
 						},
 						{
-							title: 'Boshqalar',
+							title: 'Boshqalars',
 							children: [
-								'/uz/guides/custom-themes',
-								'/uz/guides/default-theme-config',
+								'/uz/guides/',
 							],
 						},
 					],
