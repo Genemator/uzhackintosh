@@ -1,24 +1,24 @@
 ---
 forceTheme: red
 ---
-# Установка на Intel-PC
-## Подбор и проверка совместимости железа
-* **Процессор**: обязательно Intel (существуют варианты установки на AMD, но это по большей части костыль и того не стоит)
-* **Видеокарта**: на данный момент можно "завести" любую видеокарту (есть исключения¹).
-* **Материнская плата**: частично бывают проблемными материнские платы на X\*-чипсетах.
-* **Аудио**: работает практически всё, но бывают исключения.
-* **Сеть**: заводимо всё, кроме китайских ноунейм LAN-карт.
-* **Bluetooth и Wi-Fi**: смотреть [таблицу](/uz/guides/bw.md).
-## Настройка BIOS Legacy и BIOS UEFI
+# Intel-PC ga o'rnatish
+## Kompyuter yig'ish va qismlar to'g'ri kelishini tekshirish
+* **Protsessor**: albatta Intel (AMD kabi boshqa variantlar ham bor, lekin bular hammasi intel uchun yaratilgan va bunga arzimaydi)
+* **Videokarta**: hozirgi paytda hohlagan video kartani olish mumkin (ba'zilaridan tashqari).
+* **Ona plata**: ba'zida X\*-chipsetdagi ona plata bilan muammolar bo'ladi.
+* **Audio**: deyarli hammasi ishlaydi, ba'zi birlari bilan kelishmaydi.
+* **Aloqa (internet)**: hammasi ishlaydi, xitoylik ismsiz LAN-karta lardan tashqari .
+* **Bluetooth va Wi-Fi**: [jadval ko'rish](/uz/guides/bw.md).
+## BIOS Legacy va BIOS UEFI to'g'irlash
 * **CSM**: На современных платах и видеокартах при использовании исключительно UEFI-загрузки рекомедуется его выключать.
 * **Secure Boot**: Other OS (UEFI).
 * **SATA**: Обязательно поставить режим AHCI.
-* **HPET**: Включить.
-* **Fast Boot** и **Hardware Fast Boot**: Выключить.
-* **Above 4G Decoding**: Включить.
-* Отключаем USB 3.0 и 3.1 во избежание проблем во время установки.
-* Отключаем Serial-порты и подобные неиспользуемые интерфейсы.
-* Отключаем Bluetooth.
+* **HPET**: Yoqiq tursin.
+* **Fast Boot** и **Hardware Fast Boot**: O'chirib qo'yilsin.
+* **Above 4G Decoding**: Yoqiq tursin.
+* USB 3.0 va 3.1 muammolardan holis bo'lish uchun o'chirib qo'yamiz 
+* Serial-portlar va boshqa ishlatilmaydigan interfeyslarni o'chirib qo'yamiz
+* Bluetooth o'chirib qo'yamiz.
 ### Примечания:
 * На сборках с двумя CPU требуется поставить двухядерный режим на обоих CPU.
 * Видеокарта должна быть на время установки одна и установлена в первый слот.

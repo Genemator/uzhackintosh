@@ -152,7 +152,7 @@ module.exports = {
 							],
 						},
 						{
-							title: 'Boshqalars',
+							title: 'Boshqalar',
 							children: [
 								'/uz/guides/',
 							],

@@ -9,4 +9,6 @@ macOS Sierra da GateKeeper bilan bog'liq muammoni yechish uchun va programma, ra
 sudo spctl --master-disable
 ```
 
+::: warning Ogohlantiruv:
 Macingiz adminini paroli so'rashi mumkin!
+:::

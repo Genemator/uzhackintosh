@@ -6,7 +6,7 @@ forceTheme: red
 
 Har doim ham sistemani o'zi foydalanuvchilar uchun qulay va tez sozlamar o'rnatib bermaydi. Bu materialda yangi Mac foydalanuvchilari uchun 10 ta foydali maslahat va tavsiyalar yig'ib chiqdik. Bu material tajribali Mac foydalanuvchilari uchun yanig qo'shimcha ma'lumot bo'lishi mumkin.
 
-Steve Jobs o'z hayotining judda katta qismini odamlarning komputerini ishda ishlatish uchun oson qilishga ketqizdi – lekin ba'zi undanda kerakli bo'lgan fishkalar haligacha yaratilmagan.
+"Steve Jobs" o'z hayotining judda katta qismini odamlarning komputerini ishda ishlatish uchun oson qilishga ketqizdi – lekin ba'zi undanda kerakli bo'lgan fishkalar haligacha yaratilmagan.
 
 ## 1. Sichqonchaning o'ng knopkasini yoqamiz va sichqonchaning qimirlash tezligini o'zgartiramiz
 O'zi MacOS Sierradagi Magic Mouse o'ng knopkasi o'chirib qo'yilgan bo'ladi, va shu jihati bilan yangi Mac foydalanuvchilari hayratga soladi, sichqonchaning qimirlash tezligini esa shundayligicha qoldirgani yaxshi. Shu funksiyalarga o'zgartirish kiritish uchun quyidagi yo'nalish bo'yicha menuga kirib boramiz  → Системные настройки… → Trackpad → Выбор va нажатие.

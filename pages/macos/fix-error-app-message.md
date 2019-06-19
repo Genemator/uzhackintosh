@@ -8,5 +8,6 @@ forceTheme: red
 ```
 sudo spctl --master-disable
 ```
-
+::: warning Примечания:
 Ваш пароль Mac потребуется.
+:::
