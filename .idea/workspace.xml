@@ -1,105 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6da0581-81cb-40ec-bb38-c385cf1c4572" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/0.styles.5e8aa358.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/search.683d46b0.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/10.190aac3b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/11.a8a73838.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/12.25ca6764.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/13.fbc10c73.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/14.56185d7c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/15.bec1c8c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/16.64d71661.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/17.5077d634.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/18.9f9815a4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/19.d61e4992.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/20.799a9fca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/21.df7708c0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/22.38ed579b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/23.c4207090.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/24.755d2fcd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/25.544567b4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/26.c93e097c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/27.7d65075b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/28.edb06765.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/29.e9aa9247.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/3.bca888f4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/30.904151d2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/31.19519fc8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/32.65a8a587.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/33.d8cdda3c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/34.c5339c0e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/35.4c3c78d8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/36.ee554084.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/37.b0960769.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/4.f960b391.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/5.3007051b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/6.974d1b3c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/7.f1208dc8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/8.7f057939.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/9.e0c9fc41.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.0aa2a63c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/vendors~docsearch.b12f45d7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/credits/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-120-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-152-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-180-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon-96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/guides/bw.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/guides/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ios/final-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ios/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ios/ios13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/ios/more-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/macos/final-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/macos/fix-error-app-message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/macos/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/macos/more-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/telegram/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/telegram/links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/credits/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/bw.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/custom-themes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/default-theme-config.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/markdown-it.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/markdown-vuepress.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/guides/markdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/ios/final-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/ios/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/ios/more-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/macos/final-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/macos/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/macos/more-content.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/telegram/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/telegram/links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/uz/telegram/rules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/macos/fix-error-app-message.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/macos/fix-error-app-message.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/uz/guides/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/guides/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/uz/macos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/macos/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/uz/macos/fix-error-app-message.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/uz/macos/fix-error-app-message.md" afterDir="false" />
-    </list>
+    <list default="true" id="c6da0581-81cb-40ec-bb38-c385cf1c4572" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -170,7 +72,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -180,7 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,6 +93,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,6 +195,7 @@
       <workItem from="1560609517562" duration="3097000" />
       <workItem from="1560888124446" duration="1804000" />
       <workItem from="1560919125116" duration="242000" />
+      <workItem from="1560944478020" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Changed everything">
       <created>1559319211745</created>
@@ -305,7 +208,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54854000" />
+    <option name="totallyTimeSpent" value="54862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
